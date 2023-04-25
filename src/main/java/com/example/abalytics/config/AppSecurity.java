@@ -6,6 +6,8 @@ public class AppSecurity extends  WebSecurity {
     @Autowired
     private UserDetails
             Service;
+
+
             userDetailsService;
 
 
