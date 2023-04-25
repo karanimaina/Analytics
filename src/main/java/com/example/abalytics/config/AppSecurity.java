@@ -6,7 +6,6 @@ public class AppSecurity extends  WebSecurity {
     @Autowired
     private UserDetailsService userDetailsService;
 
-
     @Autowired
     private RestUnauthorizedEntryPoint entryPoint
 
