@@ -5,7 +5,7 @@ package com.example.abalytics.config;
 public class AppSecurity extends  WebSecurity {
     @Autowired
     private UserDetails
-            Service
+            Service;
 
 
             userDetailsService;
