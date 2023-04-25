@@ -7,7 +7,6 @@ public class AppSecurity extends  WebSecurity {
     private UserDetailsService
 
 
-
             userDetailsService;
 
 
